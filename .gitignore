@@ -41,3 +41,8 @@ fetch/fetch.d/fetch.d
 parse/parse.d/parse.d
 
 deploy.sh
+
+vendor
+vendor/
+vendor/**
+
